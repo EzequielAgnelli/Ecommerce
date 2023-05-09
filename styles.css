@@ -97,6 +97,7 @@ header {
 
 #proud-container {
     display: flex;
+    justify-content: center;
     padding: 0 19px;
     margin: 0 auto;
     flex-wrap: wrap;
@@ -114,7 +115,6 @@ header {
 
 .product {
     outline: 2px solid rgba(128, 128, 128, 0.582);
-    transition: all .3s ease;
 }
 
 .product img {
